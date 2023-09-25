@@ -1,4 +1,4 @@
-API_KEY = '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'
+API_KEY = ''
 model = 'gpt-4' 
 # your options are 
 #   'gpt-3.5-turbo' is cheaper but dumber and only ~3.5k word conversation
